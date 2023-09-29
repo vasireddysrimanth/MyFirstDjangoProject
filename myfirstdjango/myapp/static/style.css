@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.main {
+    height: 400px;
+    width: 500px;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 50px auto;
+
+    color: rgb(0, 115, 255);
+    border-radius: 5px;
+
+}
